@@ -33,14 +33,15 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 
 ## Especificações da API
 
-[Swagger UI](https://nlw-unite-nodejs.onrender.com/docs/static/index.html)
-
 ## Banco de dados
 
 Nessa aplicação vamos utilizar banco de dados relacional (SQL). Para ambiente de desenvolvimento seguiremos com o SQLite pela facilidade do ambiente.
 
 ### Diagrama ERD
 
-![erd.svg](https://prod-files-secure.s3.us-west-2.amazonaws.com/2f8f47f7-3b34-46b7-898d-f3460b588ee6/8f354dec-0218-43af-a16c-16a86f2d82b0/erd.svg)
-
 ### Estrutura do banco (SQL)
+
+### Image of the final project
+
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-09 at 01 40 40](https://github.com/fjpiedade/passin-mobile/assets/82730685/70538b6d-fe72-437f-bd4d-b18e7c9a9a73)
+
